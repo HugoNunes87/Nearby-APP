@@ -1,0 +1,4 @@
+- BACK (Pasta: API)
+
+-- npm star = iniciar back-end
+-- npx prisma studio = Para ver o banco de dado
