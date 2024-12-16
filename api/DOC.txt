@@ -8,3 +8,7 @@ Comandos
 
 -- npm start = iniciar back-end
 -- npx prisma studio = Para ver o banco de dados
+
+
+Gerador QR-CODE
+https://qrfy.com/pt
